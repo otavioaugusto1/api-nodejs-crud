@@ -1,0 +1,13 @@
+# Ignorar o node_modules
+node_modules/
+
+# Ignorar logs
+*.log
+
+# Ignorar arquivos de dependências do ambiente
+.env
+
+# Ignorar builds (caso haja)
+dist/
+build/
+
